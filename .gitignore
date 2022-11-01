@@ -68,3 +68,6 @@ _site/
 .metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
 
 .vscode/
+/*.log
+src/main/java/org/springframework/samples/petclinic/statistics2
+src/main/webapp/WEB-INF/jsp/achievements2
